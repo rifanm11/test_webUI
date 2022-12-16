@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_en_fas fa-chevron-down grey</name>
+   <tag></tag>
+   <elementGuidId>4a9a4284-7141-4fa7-8dfa-6fd814e7a769</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-chevron-down.grey</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@class='dropdown-menu']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-chevron-down grey</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;top-header&quot;]/div[@class=&quot;container&quot;]/div[1]/div[@class=&quot;row col-sm-12 header-padding align-items-center&quot;]/div[@class=&quot;col-sm-9 top-header-nav&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;p-relative&quot;]/a[@class=&quot;grey text-uppercase&quot;]/i[@class=&quot;fas fa-chevron-down grey&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div/ul/li/a/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+   </webElementXpaths>
+</WebElementEntity>

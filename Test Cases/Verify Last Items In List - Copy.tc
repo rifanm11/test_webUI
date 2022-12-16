@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- An automation script to help user getting started with Mobile automation testing.
+- Script Content: Open the application and verify the items show full when the items over loading</description>
+   <name>Verify Last Items In List - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab0e8616-862f-4844-a564-63a573d15cbc</testCaseGuid>
+</TestCaseEntity>
